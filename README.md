@@ -41,3 +41,7 @@
 
 # Modal Window (Deployed URL Given Below)
 * https://modalwindowjs.netlify.app
+
+# Color Flipper
+* I could not have some time to play with styling of it, so I haven't deployed it yet.
+* Source code is avaliable in this repo.
