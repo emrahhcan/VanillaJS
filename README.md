@@ -1,5 +1,4 @@
-# VanillaJS
-* Note: I'm sorry about .DS_Store things. It happens on most of the mac devices. I will find a way to get rid of them.
+# VanillaJS Exercises
 
 # Dice Game (Deployed URL Given Below)
 * Roll the dice, collect the numbers until you win.
@@ -42,6 +41,7 @@
 # Modal Screen (Deployed URL Given Below)
 * https://modalwindowjs.netlify.app
 
-# Color Flipper
+# Color Generator (Deployed URL Given Below)
 * I could not have some time to play with styling of it, so I haven't deployed it yet.
 * Source code is avaliable in this repo.
+* https://colorgeneratorjs.netlify.app/hex.html
