@@ -42,6 +42,6 @@
 * https://modalwindowjs.netlify.app
 
 # Color Generator (Deployed URL Given Below)
-* I could not have some time to play with styling of it, so I haven't deployed it yet.
-* Source code is avaliable in this repo.
+* Let's find your color.
+* Simple colors are very limited,but you can create unlimited HEX colors.
 * https://colorgeneratorjs.netlify.app/hex.html
