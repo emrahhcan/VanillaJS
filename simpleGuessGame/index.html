@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf=8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<title>Guess Game</title>
+</head>
+<body>
+    <button class="show-modal howTo">How to Play?</button>
+    <div class="modal hidden-js">
+        <button class="close-modal">&times;</button>
+        <h1 id="modalTitle">How to Play?</h1>
+        <p id="content1">
+            You need to guess a number between 1-20 to be able to play this game. 
+        </p>
+        <p id="content2">
+            Don't forget that above 20 are invalid numbers, and negative numbers are not included which means you might lose your one of your guess chances. Let's see how lucky you are!
+        </p>
+        <p id="content3">
+            You can tap/press "Enter" to guess the number whether you use mobile or not. Also, you can tap anywhere (For Mobile), or press "Escape" be able to get rid of this page.
+        </p>
+        <p id="content4">
+            Good Luck :)
+        </p>
+    </div>
+    <div class="overlay hidden-js"></div>
+    <div class="languages">
+        <a href="#" language="english" class="active">English</a>
+        <a href="#" language="turkish">Turkish</a>
+    </div>
+	<div class="container">
+        <!-- Retry & Highscore -->
+        <div class="retry">
+            <button type="button" class="retry-button">
+                <span class="rtr-btn-text rtr">Again</span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="40px" height="40px" class="hidden">
+                    <path d="M0 0h24v24H0z" fill="none"/>
+                    <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/>
+                </svg>
+            </button>
+        </div>
+        <div class="highscore">
+            <span class="score">Highscore</span>
+            <span class="hs">...</span>
+        </div>
+        <!-- Just Text -->
+        <div class="text">
+            <h1 class="def">Guess the Lucky Number</h1>
+            <h1 class="def2">Between 1-20</h1>
+        </div>
+        <!-- Guess the Number -->
+        <div class="number">
+            <div class="main">?</div>
+        </div>
+        <div class="your-guess-input">
+            <input type="number" class="your-guess">
+        </div>
+        <div class="button-check">
+            <button type="button" class="btn-check">
+                <span class="btn-check-text check">Check</span>
+            </button>
+        </div>
+        <!-- Left Number -->
+        <div class="choosen-number">
+            <p class="message">...</p>
+        </div>
+        <div class="hints">
+            <span class="timer">20</span>
+            <span class="counter">Guess Left!</span>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+    <script src="js/modal.js"></script>
+    <script src="js/langSwitch.js"></script>
+</body>
+</html>
+
