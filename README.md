@@ -36,3 +36,4 @@
 * If you want to create a random number with a fun way, you are in right place.
 * You can increase, decrease, multiply by 2, and divde by 2.
 * Negative numbers are included as well.
+* https://countervanillajs.netlify.app
