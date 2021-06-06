@@ -42,6 +42,7 @@
 # Modal Screen (Deployed URL Given Below)
 * https://modalwindowjs.netlify.app
 
-# Color Flipper
+# Color Generator (Deployed URL Given Below)
 * I could not have some time to play with styling of it, so I haven't deployed it yet.
 * Source code is avaliable in this repo.
+* https://colorgeneratorjs.netlify.app/hex.html
