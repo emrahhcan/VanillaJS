@@ -43,5 +43,5 @@
 
 # Color Generator (Deployed URL Given Below)
 * Let's find your color.
-* Simple colors are very limited,but you can create unlimited HEX colors.
+* Simple colors are very limited, but you can create unlimited HEX colors.
 * https://colorgeneratorjs.netlify.app/hex.html
