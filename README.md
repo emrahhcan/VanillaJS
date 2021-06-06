@@ -1,4 +1,4 @@
-# VanillaJS
+# VanillaJS Exercises
 
 # Dice Game (Deployed URL Given Below)
 * Roll the dice, collect the numbers until you win.
