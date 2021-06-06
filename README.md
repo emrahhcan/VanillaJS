@@ -1,5 +1,4 @@
 # VanillaJS
-* Note: I'm sorry about .DS_Store things. It happens on most of the mac devices. I will find a way to get rid of them.
 
 # Dice Game (Deployed URL Given Below)
 * Roll the dice, collect the numbers until you win.
