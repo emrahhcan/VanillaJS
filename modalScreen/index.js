@@ -1,12 +1,10 @@
 'use strict';
 
-// Variables
 const showModalBtn = document.querySelectorAll(".show-modal");
 const modal = document.querySelector(".modal");
 const overlay = document.querySelector(".overlay");
 const hideModalBtn = document.querySelector(".close-modal");
 
-// Function variables
 const openModal = function() {
     modal.classList.remove("hidden");
     overlay.classList.remove("hidden");
