@@ -39,7 +39,7 @@
 * Negative numbers are included as well.
 * https://countervanillajs.netlify.app
 
-# Modal Window (Deployed URL Given Below)
+# Modal Screen (Deployed URL Given Below)
 * https://modalwindowjs.netlify.app
 
 # Color Flipper
