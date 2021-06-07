@@ -23,6 +23,7 @@
 # Simple Image Slider (Deployed URL Given Below)
 * Full screen simple image slider.
 * You can use left and right arrow keys as well as you can click the left and right arrow icons on screen.
+* Images might upload slowly due to Netlify free hosting, so please give it some time to respond.
 * https://simpleimageslider.netlify.app
 
 # Language Switcher (Deployed URL Given Below)
