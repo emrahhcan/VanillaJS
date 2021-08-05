@@ -48,4 +48,4 @@
 * [Click Here to Visit URL](https://colorgeneratorjs.netlify.app/hex.html)
 
 ## Simple Text Editor (Deployed URL Given Below)
-* [Click Here to Visit URL](texteditor-vanillajs.netlify.app)
+* texteditor-vanillajs.netlify.app
