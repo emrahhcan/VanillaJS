@@ -46,3 +46,6 @@
 * Let's find your color.
 * Simple colors are very limited, but you can create unlimited HEX colors.
 * [Click Here to Visit URL](https://colorgeneratorjs.netlify.app/hex.html)
+
+## Simple Text Editor (Deployed URL Given Below)
+* texteditor-vanillajs.netlify.app
