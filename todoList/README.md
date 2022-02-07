@@ -1,4 +1,4 @@
-## Todo List App (Deployed URL Given Below)
+## Todo List App
 
 * A todo list which has prepared by using vanilla JS
 * The app saves your todos on local storage of your browser which means it will work properly unless you clean your entire settings on the browser
